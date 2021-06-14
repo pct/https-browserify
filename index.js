@@ -1,4 +1,4 @@
-var http = require('http')
+var http = require('stream-http')
 var url = require('url')
 
 var https = module.exports
